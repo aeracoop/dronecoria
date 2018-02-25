@@ -14,6 +14,10 @@ This team is formed by a small group of enthusiasts: a drone engineer, a conserv
 
 Since 2013, this project has gone through different iterations, from proof of concept, experimentation with microbiology and seedballs, to develop a seed dispenser for drones. Next goals are to standardize the method, develop the machines, and document the methodology for make it available worldwide.
 
+Official website:
 http://dronecoria.org
+
+Follow us in social networks:
 https://twitter.com/dronecoria
+
 https://www.facebook.com/dronecoria
