@@ -1,4 +1,4 @@
-# dronecoria
+# Dronecoria
 Automatic Forest Restoration
 
 Open Source Drones for a revolutionary ecological restoration. Making green large-scale landscapes at low cost.
@@ -13,3 +13,7 @@ The restoration is divided in two phases. First is made a precision map, that us
 This team is formed by a small group of enthusiasts: a drone engineer, a conservationist, and an architect, that shares their expertise developing this tools to boost forest restoration.
 
 Since 2013, this project has gone through different iterations, from proof of concept, experimentation with microbiology and seedballs, to develop a seed dispenser for drones. Next goals are to standardize the method, develop the machines, and document the methodology for make it available worldwide.
+
+http://dronecoria.org
+https://twitter.com/dronecoria
+https://www.facebook.com/dronecoria
