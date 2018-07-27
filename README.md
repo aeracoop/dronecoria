@@ -10,14 +10,21 @@ Dronecoria represents a new area of symbiotic species, produced by biological an
 
 The restoration is divided in two phases. First is made a precision map, that uses machine-learning, to understand the optimal spot for each seedball. Then the sowing process, is made in a flight-path. To make it scalable, is proposed an open-source model, to allow a diversity of organizations to plant thousands of trees.
 
-This team is formed by a small group of enthusiasts: a drone engineer, a conservationist, and an architect, that shares their expertise developing this tools to boost forest restoration.
+This tool is designed to boost forest restoration.
 
 Since 2013, this project has gone through different iterations, from proof of concept, experimentation with microbiology and seedballs, to develop a seed dispenser for drones. Next goals are to standardize the method, develop the machines, and document the methodology for make it available worldwide.
 
 Official website:
 http://dronecoria.org
 
-Follow us in social networks:
-https://twitter.com/dronecoria
+Licensed by CC Sharealike
 
+View the 3D models here:
+https://sketchfab.com/aeracoop
+
+Instagram:
+https://www.instagram.com/dronecoria/
+Youtube:
+https://www.youtube.com/watch?v=EXqSQjdh6fU&list=PLi7yXmjFupkw1cKqn_PYoJK-mGwk-xtld&index=1
+Facebook:
 https://www.facebook.com/dronecoria
