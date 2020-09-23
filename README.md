@@ -23,16 +23,19 @@ http://dronecoria.org
 Patreon:
 https://patreon.com/dronecoria
 
-View the 3D models here:
-https://sketchfab.com/aeracoop
-
 Twitter:
 https://twitter.com/dronecoria
+
 Instagram:
 https://www.instagram.com/dronecoria/
+
 Youtube:
 https://www.youtube.com/watch?v=EXqSQjdh6fU&list=PLi7yXmjFupkw1cKqn_PYoJK-mGwk-xtld&index=1
+
 Facebook:
 https://www.facebook.com/dronecoria
+
+View the 3D models here:
+https://sketchfab.com/aeracoop
 
 Licensed by CC Sharealike
