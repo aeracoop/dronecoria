@@ -1,3 +1,6 @@
+Updated versions of this file can be found here:
+https://wikifactory.com/@aeracoop/dronecoria
+
 # Dronecoria
 Automatic Forest Restoration
 
@@ -17,14 +20,19 @@ Since 2013, this project has gone through different iterations, from proof of co
 Official website:
 http://dronecoria.org
 
-Licensed by CC Sharealike
+Patreon:
+https://patreon.com/dronecoria
 
 View the 3D models here:
 https://sketchfab.com/aeracoop
 
+Twitter:
+https://twitter.com/dronecoria
 Instagram:
 https://www.instagram.com/dronecoria/
 Youtube:
 https://www.youtube.com/watch?v=EXqSQjdh6fU&list=PLi7yXmjFupkw1cKqn_PYoJK-mGwk-xtld&index=1
 Facebook:
 https://www.facebook.com/dronecoria
+
+Licensed by CC Sharealike
